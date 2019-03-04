@@ -1,0 +1,26 @@
+<annotation>
+	<folder>GreenHome</folder>
+	<filename>GreenHome_15.jpg</filename>
+	<path>C:\a-robot-images\GreenHome\GreenHome_15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>home</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>433</xmin>
+			<ymin>304</ymin>
+			<xmax>522</xmax>
+			<ymax>380</ymax>
+		</bndbox>
+	</object>
+</annotation>

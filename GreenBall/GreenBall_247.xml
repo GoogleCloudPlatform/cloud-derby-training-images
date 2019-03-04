@@ -1,0 +1,26 @@
+<annotation>
+	<folder>UnBound</folder>
+	<filename>GreenBall_247.jpg</filename>
+	<path>C:\Users\sasha\Google Drive\Machine Learning\UnBound\GreenBall_247.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>639</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>121</ymin>
+			<xmax>452</xmax>
+			<ymax>465</ymax>
+		</bndbox>
+	</object>
+</annotation>

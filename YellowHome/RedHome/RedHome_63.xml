@@ -1,0 +1,26 @@
+<annotation>
+	<folder>DHome</folder>
+	<filename>RedHome_63.jpg</filename>
+	<path>C:\images\DHome\RedHome_63.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>letter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>187</ymin>
+			<xmax>246</xmax>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+</annotation>

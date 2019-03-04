@@ -1,0 +1,26 @@
+<annotation>
+	<folder>YellowHome</folder>
+	<filename>YellowHome_2.jpg</filename>
+	<path>C:\a-robot-images\YellowHome\YellowHome_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>home</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>409</xmin>
+			<ymin>272</ymin>
+			<xmax>635</xmax>
+			<ymax>501</ymax>
+		</bndbox>
+	</object>
+</annotation>

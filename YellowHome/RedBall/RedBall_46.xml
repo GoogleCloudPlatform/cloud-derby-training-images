@@ -1,0 +1,26 @@
+<annotation>
+	<folder>UnBound</folder>
+	<filename>RedBall_46.jpg</filename>
+	<path>C:\Users\sasha\Google Drive\Machine Learning\UnBound\RedBall_46.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>304</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>505</xmin>
+			<ymin>15</ymin>
+			<xmax>605</xmax>
+			<ymax>130</ymax>
+		</bndbox>
+	</object>
+</annotation>

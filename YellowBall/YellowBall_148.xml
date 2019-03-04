@@ -1,0 +1,26 @@
+<annotation>
+	<folder>UnBound</folder>
+	<filename>YellowBall_148.jpg</filename>
+	<path>C:\Users\sasha\Google Drive\Machine Learning\UnBound\YellowBall_148.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>218</xmin>
+			<ymin>241</ymin>
+			<xmax>413</xmax>
+			<ymax>434</ymax>
+		</bndbox>
+	</object>
+</annotation>

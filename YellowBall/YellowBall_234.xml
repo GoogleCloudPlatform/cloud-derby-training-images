@@ -1,0 +1,26 @@
+<annotation>
+	<folder>from-sasha-2</folder>
+	<filename>YellowBall_234.jpg</filename>
+	<path>C:\RobotDerby\balls\from-sasha-2\YellowBall_234.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>469</width>
+		<height>570</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>107</ymin>
+			<xmax>440</xmax>
+			<ymax>466</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>from-sasha-2</folder>
+	<filename>GreenBall_270.jpg</filename>
+	<path>C:\RobotDerby\balls\from-sasha-2\GreenBall_270.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>596</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ball</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>1</ymin>
+			<xmax>574</xmax>
+			<ymax>538</ymax>
+		</bndbox>
+	</object>
+</annotation>

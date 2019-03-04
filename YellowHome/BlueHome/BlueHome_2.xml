@@ -1,0 +1,26 @@
+<annotation>
+	<folder>BlueHome</folder>
+	<filename>BlueHome_2.jpg</filename>
+	<path>C:\a-robot-images\BlueHome\BlueHome_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>home</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>482</xmin>
+			<ymin>260</ymin>
+			<xmax>682</xmax>
+			<ymax>492</ymax>
+		</bndbox>
+	</object>
+</annotation>

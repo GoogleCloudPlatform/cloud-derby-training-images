@@ -1,0 +1,26 @@
+<annotation>
+	<folder>from-sasha-2</folder>
+	<filename>BlueBall_246.jpg</filename>
+	<path>C:\RobotDerby\balls\from-sasha-2\BlueBall_246.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>636</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>26</ymin>
+			<xmax>593</xmax>
+			<ymax>599</ymax>
+		</bndbox>
+	</object>
+</annotation>

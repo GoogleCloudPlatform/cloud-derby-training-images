@@ -1,0 +1,38 @@
+<annotation>
+	<folder>BlueBall</folder>
+	<filename>BlueBall_332.jpg</filename>
+	<path>C:\Users\sasha\Google Drive\Machine Learning\Newest Stuff\images_4_alex\BlueBall\BlueBall_332.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>340</xmin>
+			<ymin>227</ymin>
+			<xmax>352</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>846</xmin>
+			<ymin>237</ymin>
+			<xmax>867</xmax>
+			<ymax>260</ymax>
+		</bndbox>
+	</object>
+</annotation>

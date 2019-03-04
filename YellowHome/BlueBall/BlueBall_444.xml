@@ -1,0 +1,26 @@
+<annotation>
+	<folder>BlueBall</folder>
+	<filename>BlueBall_444.jpg</filename>
+	<path>C:\a-robot-images\BlueBall\BlueBall_444.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>383</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>189</xmin>
+			<ymin>488</ymin>
+			<xmax>210</xmax>
+			<ymax>511</ymax>
+		</bndbox>
+	</object>
+</annotation>

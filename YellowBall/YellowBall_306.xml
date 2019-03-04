@@ -1,0 +1,26 @@
+<annotation>
+	<folder>YellowBall</folder>
+	<filename>YellowBall_306.jpg</filename>
+	<path>C:\a-robot-images\YellowBall\YellowBall_306.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>635</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>914</xmin>
+			<ymin>18</ymin>
+			<xmax>976</xmax>
+			<ymax>78</ymax>
+		</bndbox>
+	</object>
+</annotation>

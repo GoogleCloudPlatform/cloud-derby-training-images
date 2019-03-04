@@ -1,0 +1,26 @@
+<annotation>
+	<folder>AHome</folder>
+	<filename>YellowHome_83.jpg</filename>
+	<path>C:\images\AHome\YellowHome_83.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>letter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>650</xmin>
+			<ymin>252</ymin>
+			<xmax>873</xmax>
+			<ymax>502</ymax>
+		</bndbox>
+	</object>
+</annotation>

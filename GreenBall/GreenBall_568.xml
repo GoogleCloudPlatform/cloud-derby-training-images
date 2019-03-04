@@ -1,0 +1,26 @@
+<annotation>
+	<folder>GreenBall</folder>
+	<filename>GreenBall_568.jpg</filename>
+	<path>C:\a-robot-images\GreenBall\GreenBall_568.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ball</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>952</xmin>
+			<ymin>228</ymin>
+			<xmax>1024</xmax>
+			<ymax>380</ymax>
+		</bndbox>
+	</object>
+</annotation>

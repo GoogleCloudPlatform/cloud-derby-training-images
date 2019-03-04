@@ -1,0 +1,26 @@
+<annotation>
+	<folder>BHome</folder>
+	<filename>BlueHome_35.jpg</filename>
+	<path>C:\images\BHome\BlueHome_35.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>letter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>605</xmin>
+			<ymin>118</ymin>
+			<xmax>653</xmax>
+			<ymax>187</ymax>
+		</bndbox>
+	</object>
+</annotation>

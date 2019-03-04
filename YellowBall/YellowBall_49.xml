@@ -1,0 +1,26 @@
+<annotation>
+	<folder>YellowBall</folder>
+	<filename>YellowBall_49.jpg</filename>
+	<path>C:\RobotDerby\balls\images_renamed\YellowBall\YellowBall_49.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>558</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>139</xmin>
+			<ymin>89</ymin>
+			<xmax>425</xmax>
+			<ymax>373</ymax>
+		</bndbox>
+	</object>
+</annotation>

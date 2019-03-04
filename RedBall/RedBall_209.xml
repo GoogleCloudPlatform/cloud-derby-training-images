@@ -1,0 +1,26 @@
+<annotation>
+	<folder>RedBall</folder>
+	<filename>RedBall_209.jpg</filename>
+	<path>C:\a-robot-images\RedBall\RedBall_209.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>847</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>690</xmin>
+			<ymin>531</ymin>
+			<xmax>759</xmax>
+			<ymax>600</ymax>
+		</bndbox>
+	</object>
+</annotation>

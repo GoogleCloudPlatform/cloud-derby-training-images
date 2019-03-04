@@ -1,0 +1,26 @@
+<annotation>
+	<folder>RedHome</folder>
+	<filename>RedHome_9.jpg</filename>
+	<path>C:\a-robot-images\RedHome\RedHome_9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>home</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>203</xmin>
+			<ymin>330</ymin>
+			<xmax>363</xmax>
+			<ymax>408</ymax>
+		</bndbox>
+	</object>
+</annotation>
