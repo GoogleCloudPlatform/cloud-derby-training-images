@@ -2,7 +2,7 @@ Annotated Training Images for Google Cloud Derby
 =====
 
 This project is a collection of annotated images for the [Cloud Derby project](https://www.cloudderby.io).
-Images and annotations are contantly updated and most recent copy can be found 
+Images and annotations are contantly updated and the most recent copy can be found 
 in the Google Cloud Storage bucket (please refer to [project instructions](https://www.cloudderby.io/getting-started/instructions) for location details).
 
 Annotations are made with Pascal VOC format and image files are organized in folders along with XML annotations.
